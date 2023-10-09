@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E741" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.Country.__getitem__" />
+          <option value="float.__getitem__" />
+          <option value="float.pop" />
+          <option value="float.split" />
+          <option value="int.split" />
+          <option value="str.update" />
+          <option value="collections.Counter.__delitem__" />
+          <option value="reversed.__getitem__" />
+          <option value="str.pop" />
+          <option value="list.sorted" />
+          <option value="int.__delitem__" />
+          <option value="int.__getitem__" />
+          <option value="dict.append" />
+          <option value="str.__sub__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
